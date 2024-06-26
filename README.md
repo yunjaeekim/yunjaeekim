@@ -58,10 +58,7 @@ Thanks for your time:)
 | :------: | :------: | :------: | :------: |
 | 2024.03~2024.06 | 데이터 분석 학회 D&A | 학회원 | 수료 |
 
-
-
-
-
+<br>
  
 ![Yunjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeekim&show_icons=true&theme=chartreuse-dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodsailer)](https://solved.ac/goodsailer/)
