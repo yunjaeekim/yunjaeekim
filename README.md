@@ -7,8 +7,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kyj9396922@naver.com)](mailto:kyj9396922@naver.com)
 
 
-------------------------------------------------------------------------------------------------------------------------
-
 # 💪Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
