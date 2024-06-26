@@ -1,6 +1,7 @@
 # KIM Yun Jae 😉
 ### Thank you so much for stopping by my Page!
-### Feel free to reach out if you need anything.
+Feel free to reach out if you need anything.
+<br>
 Thanks for your time
 
 
