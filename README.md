@@ -1,5 +1,7 @@
 # KIM Yun Jae 😉
-### Thank you so much for stopping by my Page!
+Thank you so much for stopping by my Page!
+Feel free to reach out if you need anything.
+Thanks for your time
 
 
 # :mailbox_with_mail: Contacts
