@@ -19,6 +19,43 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+<br>
+
+----
+## Certificate  
+| 취득 연도 | 자격증 | 주관 | 유효기간 |
+|-|-|-|-|
+|2022|ADsP|한국데이터산업진흥원|영구|
+|2024|SQLD|한국데이터산업진흥원|영구|
+
+<br>
+
+##  Career
+| 연도 | 학교 | 학과 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2016.03~2019.02 | 청원고등학교 |          이과           | 졸업 |
+| 2020.03~2024.02 |  국민대학교  | AI빅데이터융합경영학과   | 재학 |
+| 2020.03~2024.02 |  국민대학교  | 데이터사이언스 융합 전공  | 재학 |
+
+
+<br>
+
+## Contest
+| 연도 | 주최 | 대회명 | 분석 tool | 비고 |
+| :------: | :------: | :------: | :------: | :------: |
+| 2024 | 미래와 소프트웨어 | 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤 | 머신러닝 & streamlit |  |
+| 2024 | 환경부 | 2024년도 환경데이터 활용 및 분석 공모전 | 데이터 전처리 & QGIS |  |
+
+<br>
+
+##  Study
+| 활동기간 | 기관 | 명칭 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2024.03~2024.06 | 데이터 분석 학회 D&A | 학회원 | 수료 |
+
+
+
+
 
  
 ![Yunjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeekim&show_icons=true&theme=chartreuse-dark)
