@@ -2,7 +2,7 @@
 ### Thank you so much for stopping by my Page!
 Feel free to reach out if you need anything.
 <br>
-Thanks for your time
+Thanks for your time:)
 
 
 # :mailbox_with_mail: Contacts
